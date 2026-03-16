@@ -1,0 +1,5 @@
+{
+  "name": "KernelForge",
+  "description": "A professional dashboard for building and patching Android kernels with KernelSU and susfs.",
+  "requestFramePermissions": []
+}
